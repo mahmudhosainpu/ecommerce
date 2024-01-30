@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* body{
+    font-family: 'Roboto', sans-serif;
+} */
+
+
+.title{
+    @apply capitalize text-2xl sm:text-3xl text-center text-black font-semibold my-8 ;
+}

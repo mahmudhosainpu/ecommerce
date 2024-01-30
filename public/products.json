@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title": "shirts",
+        "categoris": "Shoes",
+        "price": "1234",
+        "image": "/items/item1.jpg",
+        "status": "Best Selers"
+        
+    },
+    {
+        "id":2,
+        "title": "shirts",
+        "categoris": "Shoes",
+        "price": "1234",
+        "image": "/items/item2.jpg",
+        "status": "Best Selers"
+        
+    },
+    {
+        "id":3,
+        "title": "shirts",
+        "categoris": "Shoes",
+        "price": "1234",
+        "image": "/items/item1.jpg",
+        "status": "Best Selers"
+        
+    },
+    {
+        "id":4,
+        "title": "shirts",
+        "categoris": "dress",
+        "price": "1234",
+        "image": "/items/item3.jpg",
+        "status": "Best Selers"
+        
+    },
+    {
+        "id":5,
+        "title": "shirts",
+        "categoris": "dress",
+        "price": "1234",
+        "image": "/items/item1.jpg",
+        "status": "Best Selers"
+        
+    },
+    {
+        "id":6,
+        "title": "shirts",
+        "categoris": "dress",
+        "price": "1234",
+        "image": "/items/item1.jpg",
+        "status": "Best Selers"
+        
+    }
+]
