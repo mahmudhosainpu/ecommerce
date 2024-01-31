@@ -1,55 +1,55 @@
 [
     {
         "id":1,
-        "title": "shirts",
-        "categoris": "Shoes",
-        "price": "1234",
-        "image": "/items/item1.jpg",
-        "status": "Best Selers"
+        "title": "Black and white shoes",
+        "category": "shoes",
+        "price": "200",
+        "image": "/items/shoes.jpg",
+        "status": "New Arriaval"
         
     },
     {
         "id":2,
-        "title": "shirts",
-        "categoris": "Shoes",
-        "price": "1234",
-        "image": "/items/item2.jpg",
+        "title": "Bag",
+        "category": "bag",
+        "price": "900",
+        "image": "/items/bag.jpg",
         "status": "Best Selers"
         
     },
     {
         "id":3,
-        "title": "shirts",
-        "categoris": "Shoes",
-        "price": "1234",
-        "image": "/items/item1.jpg",
+        "title": "t-shirs white",
+        "category": "dress",
+        "price": "100",
+        "image": "/items/t-shirt.jpg",
         "status": "Best Selers"
         
     },
     {
         "id":4,
-        "title": "shirts",
-        "categoris": "dress",
-        "price": "1234",
+        "title": "Green Shoes",
+        "category": "shoes",
+        "price": "300",
         "image": "/items/item3.jpg",
         "status": "Best Selers"
         
     },
     {
         "id":5,
-        "title": "shirts",
-        "categoris": "dress",
-        "price": "1234",
-        "image": "/items/item1.jpg",
+        "title": "Coloring bag",
+        "category": "bag",
+        "price": "1000",
+        "image": "/items/bag2.jpg",
         "status": "Best Selers"
         
     },
     {
         "id":6,
-        "title": "shirts",
-        "categoris": "dress",
-        "price": "1234",
-        "image": "/items/item1.jpg",
+        "title": "White dress",
+        "category": "dress",
+        "price": "500",
+        "image": "/items/dress.jpg",
         "status": "Best Selers"
         
     }
